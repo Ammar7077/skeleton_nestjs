@@ -1,11 +1,8 @@
 {
   "compilerOptions": {
-    "moduleResolution": "nodenext",
-    "module": "nodenext",
+    "moduleResolution": "node16",
+    "module": "node16",
     "target": "esnext",
-    // "lib": ["ES2021", "DOM"],
-    // "noImplicitReturns": true,
-    // "allowJs": true,
     "declaration": true,
     "removeComments": true,
     "emitDecoratorMetadata": true,
